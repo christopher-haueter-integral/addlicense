@@ -1,0 +1,5 @@
+- id: addlicense
+  name: addlicense
+  entry: addlicense
+  language: golang
+  types: [text]
